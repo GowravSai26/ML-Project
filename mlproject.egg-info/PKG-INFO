@@ -3,6 +3,3 @@ Name: mlproject
 Version: 0.0.1
 Author: Gowrav
 Author-email: gowravnagsai@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: seaborn

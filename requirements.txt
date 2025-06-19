@@ -2,4 +2,3 @@ pandas
 numpy
 seaborn
 -e .
-# map to setup.py or indication that setup.py file is there and automatically this package will be built
